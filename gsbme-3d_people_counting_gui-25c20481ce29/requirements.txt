@@ -1,0 +1,6 @@
+numpy==1.18.1
+PyOpenGL==3.1.5
+PyQt5==5.15.1
+PyQt5-sip==12.8.0
+pyqtgraph==0.10.0
+pyserial==3.4
